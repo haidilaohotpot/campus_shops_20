@@ -18,4 +18,3 @@
 5）店家管理增强
 ......
 
-版本1.0 @link to https://github.com/xiezengcheng/campus_shops_10
